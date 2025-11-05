@@ -36,6 +36,7 @@ plugins {
   id 'com.diffplug.spotless' version '5.12.5'
   id 'com.github.ben-manes.versions' version '0.42.0'
   id 'idea'
+    id "org.sonarqube" version "7.0.1.6134"
   id 'java-library'
   id 'org.owasp.dependencycheck' version '6.5.3'
   id 'org.nosphere.apache.rat' version "0.7.0"
